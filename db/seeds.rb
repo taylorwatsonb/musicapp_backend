@@ -8,3 +8,7 @@
 miles davis = Artist.create(name: "Miles Davis", genre: "Jazz", song_id: 4)
 sade = Artist.create(name: "Sade", genre: "Neo Soul", song_id: 5)
 maxwell = Artist.create(name: "Maxwell", genre: "Neo Soul", song_id: 7)
+
+Song.create(title:"So What")
+Song.create(title:"Smooth Operator")
+Song.create(title: "Acension")
